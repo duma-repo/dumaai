@@ -27,7 +27,7 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
     * [廖雪峰 Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) ：涵盖了 Python 基础语法和实战项目，内容体系完整，同样可以在线编写、运行Python代码
     * [Python官网](https://docs.python.org/zh-cn/3/) ：Python官方中文文档，可以用来入门Python，也可以作为手册查询知识点
 * 视频
-    * [千锋 2020 Python入门视频](http://www.mobiletrain.org/page/python/?beijing=pythonbdtg=kecheng=mo02=s1901300722&jzl_kwd=157905821538&jzl_ctv=51735212554&jzl_mtt=1&jzl_adt=cl3&jzl_ch=s11&jzl_act=18597216&jzl_cpg=121119405&jzl_adp=4556860678&jzl_sty=1&jzl_dv=s1&bd_vid=10631232360244249725) ：培训机构的视频，高清且比较新，一共 270 个课程，每个视频10分钟左右，视频总时长至少40小时。
+    * [千锋 2020 Python入门视频](http://video.mobiletrain.org/course/index/courseId/763?beijing=pythonbdtg=kecheng=mo02=s1901300722&jzl_kwd=157905821538&jzl_ctv=51735212554&jzl_mtt=1&jzl_adt=cl3&jzl_ch=s11&jzl_act=18597216&jzl_cpg=121119405&jzl_adp=4556860678&jzl_sty=1&jzl_dv=s1&bd_vid=10631232360244249725) ：培训机构的视频，高清且比较新，一共 270 个课程，每个视频10分钟左右，视频总时长至少40小时。
       这种视频基本都是为了即将要找工作的学员培训的，所以内容成体系、完整，讲师也比较厉害，对编程小白（尤其是计算机小白）非常友好。相比于看书和网站自学，看这种视频学的更扎实，但付出时间也会更多，适合零基础小白。
     * [小甲鱼 零基础入门Python](https://www.bilibili.com/video/BV1Fs411A7HZ?spm_id_from=333.999.0.0) ：共97节课，其中53节是基础内容，其他是项目实战，每个视频 15-30 分钟不等。我大学的时候听过他的课程，讲课风格比较诙谐幽默，能够比较轻松的带领零基础人员入门。
 * 编码规范
