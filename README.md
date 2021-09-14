@@ -6,6 +6,8 @@
 * 收集的优质资料我自己都会看，可以在公众号向我提问，有问必答
 * 优质的书籍、付费资料进行抽奖
 
+<img src="https://files-cdn.cnblogs.com/files/duma/duma.bmp" alt="duma" style="zoom: 80%;" />
+
 # Python
 
 Python 学习曲线低，上手简单，非常适合作为初学者的入门语言。Python 应用面广，学会 Python
