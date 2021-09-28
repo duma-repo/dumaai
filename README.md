@@ -73,3 +73,5 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
     * [数据结构与算法基础](https://www.bilibili.com/video/BV1Zt411o7Rn?from=search&seid=3480001791353866209&spm_id_from=333.337.0.0) Java版，共 67 节，每节课 10 分钟左右，重点介绍常见的数据结构，算法部分偏少。
     * [重庆师范大学 数据结构](https://study.163.com/course/introduction/1005638005.htm?inLoc=ss_ssjg_tjlb_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) C/C++版本数据结构，共 98 节课，每节课 10 分钟左右，重点介绍数据结构，算法偏少，主要介绍了排序和查找算法
 * 知识要点
+    * [数组](数据结构和算法/数组.md) 
+    * [链表]()
