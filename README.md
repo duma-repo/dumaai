@@ -22,6 +22,14 @@
 所以说，**数据结构和算法** 这部分核心要学的就是学习各种各样的数据结构，以及在此数据结构之上衍生出来的各种算法。从而在工作中
 能够高效得解决问题。
 
+我将搜集的优质内容正文、代码、LeetCode题目和大厂真题都整理在 pdf 中了，共 480 页：
+
+![pdf截图1](https://github.com/duma-repo/great-programmer/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/book_pic1.png?raw=true)
+
+![pdf截图2](https://github.com/duma-repo/great-programmer/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/book_pic2.png?raw=true)
+
+在 **渡码** 公众号，回复关键词 **gp** ，找到 "数据结构与算法/数据结构和算法手册@公众号渡码.pdf" 文件。
+
 * 知识体系
     * [数据结构知识体系](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e21c2114d5104108b841c90ac6636bc8~tplv-k3u1fbpfcp-watermark.image?) ：常见的数据结构思维导图
     * [算法知识体系](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e763f0450c1245b3989775a2196fb40b~tplv-k3u1fbpfcp-watermark.image?) ：常见的算法思维导图
