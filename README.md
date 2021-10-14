@@ -6,7 +6,8 @@
 * 收集的优质资料我自己都会看，可以在公众号向我提问，有问必答
 * 优质的书籍、付费资料进行抽奖
 
-![](公众号/duma.jpg)
+![](https://github.com/duma-repo/great-programmer/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/duma.jpg?raw=true)
+
 
 # 数据结构和算法
 
