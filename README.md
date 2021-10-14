@@ -54,6 +54,11 @@
     * [贪心](数据结构和算法/贪心.md)
     * [动态规划](数据结构和算法/数组.md#动态规划)
     * [排序](数据结构和算法/数组.md#排序)
+* 面试经验
+  * [字节面经](https://leetcode-cn.com/circle/discuss/mKadmf/)
+  * [映客面经](https://leetcode-cn.com/circle/discuss/4yD93k/)
+  * [阿里面经](https://leetcode-cn.com/circle/discuss/8AXO90/)
+  * [腾讯面经](https://leetcode-cn.com/circle/discuss/qJ1x9v/)
 
 # Python
 
