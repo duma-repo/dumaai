@@ -6,7 +6,7 @@
 * 收集的优质资料我自己都会看，可以在公众号向我提问，有问必答
 * 优质的书籍、付费资料进行抽奖
 
-<img src="https://files-cdn.cnblogs.com/files/duma/duma.bmp" alt="duma" style="zoom: 80%;" />
+![](公众号/duma.jpg)
 
 # 数据结构和算法
 
