@@ -28,7 +28,7 @@
 
 ![pdf截图2](https://github.com/duma-repo/great-programmer/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/book_pic2.png?raw=true)
 
-在 **渡码** 公众号，回复关键词 **gp** ，找到 "数据结构与算法/数据结构和算法手册@公众号渡码.pdf" 文件。
+在 **渡码** 公众号，回复关键词 **gp** ，找到 "**great-programmer/数据结构与算法/数据结构和算法手册@公众号渡码.pdf**" 文件。
 
 * 知识体系
     * [数据结构知识体系](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e21c2114d5104108b841c90ac6636bc8~tplv-k3u1fbpfcp-watermark.image?) ：常见的数据结构思维导图
