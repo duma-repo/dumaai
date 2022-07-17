@@ -7,10 +7,14 @@
 Python 学习曲线低，上手简单，非常适合作为初学者的入门语言。Python 应用面广，学会 Python
 可以从事 web开发、爬虫、运维、数据分析、机器学习等工作。
 
+* [Python 基础语法](#Python 基础语法)
+
 ## Python 基础语法
 * [30分钟入门Python编程](https://mp.weixin.qq.com/s/4u2-IpPkOm0yI5PzT60--Q)
 * [40个Python入门小程序](https://mp.weixin.qq.com/s/FxQGQ0Z507k1UCrZyJbeKA)
 * [一文详解Python装饰器](https://mp.weixin.qq.com/s/Kr5eGyELGcsoRcUBvJlrbA)
+
+## 人工智能
 
 ## Python 库
 
