@@ -21,6 +21,7 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 ## 人工智能
 ### 计算机视觉
 * [总结几个简单好用的Python人脸识别算法](https://mp.weixin.qq.com/s/3BgDld9hILPLCIlyysZs6Q)
+* [Python+AI让静态图片动起来](https://mp.weixin.qq.com/s/ttzZSpQjzjihwANXei88lA)
 
 
 ## Python库
