@@ -1,6 +1,10 @@
 # great-programmer
 
-输出优质编程资料，定期更新
+持续输出优质编程资料，定期更新
+Bilibili：https://space.bilibili.com/494605864
+微信公众号：[渡码](http://mp.weixin.qq.com/profile?src=3&timestamp=1663979948&ver=1&signature=wcyNF3yu1W0bMvEanLaDxbZWIzr4fHOGzS3*iP9FBJmGgREoKU6rifDbYefvfJNkEK2r*hS6httmcHBrvtFoVg==)
+
+![](公众号/duma.jpg)
 
 # Python
 
@@ -19,6 +23,8 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 * [一文详解Python装饰器](https://mp.weixin.qq.com/s/Kr5eGyELGcsoRcUBvJlrbA)
 
 ## 人工智能
+### AI基础
+* [神经网络3D可视化工具Zetane](python/ai/zetane.md)
 ### 计算机视觉
 * [总结几个简单好用的Python人脸识别算法](https://mp.weixin.qq.com/s/3BgDld9hILPLCIlyysZs6Q)
 * [Python+AI让静态图片动起来](https://mp.weixin.qq.com/s/ttzZSpQjzjihwANXei88lA)
