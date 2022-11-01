@@ -30,6 +30,8 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 ### 计算机视觉
 * [总结几个简单好用的Python人脸识别算法](https://mp.weixin.qq.com/s/3BgDld9hILPLCIlyysZs6Q)
 * [Python+AI让静态图片动起来](https://mp.weixin.qq.com/s/ttzZSpQjzjihwANXei88lA)
+* [AI虚拟手势玩飞机大战 ](https://mp.weixin.qq.com/s/vs4-wJpP8Q4Hxuclih_4Aw) ：人工智能实战小应用，识别手势+姿态估计，用Python控制电脑游戏
+* [人脸识别+姿态估计玩飞机大战游戏 ](https://mp.weixin.qq.com/s/KmWVOnUb0xNihZNRIupFnw) ：人工智能实战小应用，人脸识别+姿态估计，用Python控制电脑游戏
 
 
 ## Python库
