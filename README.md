@@ -33,7 +33,7 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 * [AI虚拟手势玩飞机大战 ](https://mp.weixin.qq.com/s/vs4-wJpP8Q4Hxuclih_4Aw) ：人工智能实战小应用，识别手势+姿态估计，用Python控制电脑游戏
 * [人脸识别+姿态估计玩飞机大战游戏 ](https://mp.weixin.qq.com/s/KmWVOnUb0xNihZNRIupFnw) ：人工智能实战小应用，人脸识别+姿态估计，用Python控制电脑游戏
 * [用科技识别狠活，OCR+爬虫+web开发，配料表识别器 ](https://mp.weixin.qq.com/s/cEyRspspAlFwUtacLpT6Ow) ：全栈Python开发的AI小应用，从模型训练到爬虫到web，很有趣
-* [ 训练YOLOv5模型和VGG16模型，开发AI虚拟白板 ](https://mp.weixin.qq.com/s/NonDhA5KonxFJAXtp9wMYA) ：YOLOv5识别手掌，VGG16识别手指，用AI做一个虚拟白板，实现隔空写字
+* [ 训练YOLOv5模型和VGG16模型，开发AI虚拟白板 ](https://mp.weixin.qq.com/s/NonDhA5KonxFJAXtp9wMYA) ：YOLOv5识别手掌，VGG16识别手指，用AI做一个虚拟白板，实现隔空写字 
 
 
 ## Python库
