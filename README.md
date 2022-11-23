@@ -26,10 +26,19 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 
 ## 人工智能
 ### AI基础
+* [入门人工智能的几个公开课](https://mp.weixin.qq.com/s/buP4pQ0r0_DiiX7V9Z-E2w)
+* [深度学习数学基础，这是我见过最直观、形象的视频教程!](https://mp.weixin.qq.com/s/d3NYzKQU6jI47hQKD5YBkA)
 * [神经网络3D可视化工具Zetane](python/ai/zetane.md)
+* [超赞！！3D可视化工具透视神经网络内部](https://mp.weixin.qq.com/s/5ge2azK4bMa6uAmkcRJf2g)
+
+### 机器学习实战
+* [AI预测世界杯比赛结果，惊掉下巴！](https://mp.weixin.qq.com/s/rd1FoVRVC8j3TOw7_tlhrA)
+
 ### 计算机视觉
 * [总结几个简单好用的Python人脸识别算法](https://mp.weixin.qq.com/s/3BgDld9hILPLCIlyysZs6Q)
 * [Python+AI让静态图片动起来](https://mp.weixin.qq.com/s/ttzZSpQjzjihwANXei88lA)
+* [开源一个OCR工具，批量图片转文字](https://mp.weixin.qq.com/s/S1ZdpcIDijI-KYTI3sMvHQ)
+* [用OCR技术，自动识别各种验证码，工具已开源](https://mp.weixin.qq.com/s/5jzptNBwoO_FhCrIxbC66g)
 * [AI虚拟手势玩飞机大战 ](https://mp.weixin.qq.com/s/vs4-wJpP8Q4Hxuclih_4Aw) ：人工智能实战小应用，识别手势+姿态估计，用Python控制电脑游戏
 * [人脸识别+姿态估计玩飞机大战游戏 ](https://mp.weixin.qq.com/s/KmWVOnUb0xNihZNRIupFnw) ：人工智能实战小应用，人脸识别+姿态估计，用Python控制电脑游戏
 * [用科技识别狠活，OCR+爬虫+web开发，配料表识别器 ](https://mp.weixin.qq.com/s/cEyRspspAlFwUtacLpT6Ow) ：全栈Python开发的AI小应用，从模型训练到爬虫到web，很有趣
