@@ -44,6 +44,7 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 * [用科技识别狠活，OCR+爬虫+web开发，配料表识别器 ](https://mp.weixin.qq.com/s/cEyRspspAlFwUtacLpT6Ow) ：全栈Python开发的AI小应用，从模型训练到爬虫到web，很有趣
 * [训练YOLOv5模型和VGG16模型，开发AI虚拟白板](https://mp.weixin.qq.com/s/NonDhA5KonxFJAXtp9wMYA) ：YOLOv5识别手掌，VGG16识别手指，用AI做一个虚拟白板，实现隔空写字
 * [训练生成对抗网络，AI 漫画风格生成器](https://mp.weixin.qq.com/s/KH8c0BPPpaaHvwNwMPzsgQ) ：训练生成对抗网络，将真实图片向着漫画风格迁移，太强了！
+* [AI火灾检测](https://mp.weixin.qq.com/s/SarFbBz3S4S-Gy3ygCUkkg) ：YOLOv7 训练目标检测模型，做个火灾监测程序
 
 
 ## Python库
