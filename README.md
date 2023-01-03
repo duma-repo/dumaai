@@ -30,6 +30,7 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 * [深度学习数学基础，这是我见过最直观、形象的视频教程!](https://mp.weixin.qq.com/s/d3NYzKQU6jI47hQKD5YBkA)
 * [神经网络3D可视化工具Zetane](python/ai/zetane.md)
 * [超赞！！3D可视化工具透视神经网络内部](https://mp.weixin.qq.com/s/5ge2azK4bMa6uAmkcRJf2g)
+* [逆天了！用Numpy开发深度学习框架，透视神经网络训练过程](https://mp.weixin.qq.com/s/_V7Vng74XS7XlFU6mAfdRQ)
 
 ### 机器学习实战
 * [AI预测世界杯比赛结果，惊掉下巴！](https://mp.weixin.qq.com/s/rd1FoVRVC8j3TOw7_tlhrA)
@@ -45,6 +46,7 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 * [训练YOLOv5模型和VGG16模型，开发AI虚拟白板](https://mp.weixin.qq.com/s/NonDhA5KonxFJAXtp9wMYA) ：YOLOv5识别手掌，VGG16识别手指，用AI做一个虚拟白板，实现隔空写字
 * [训练生成对抗网络，AI 漫画风格生成器](https://mp.weixin.qq.com/s/KH8c0BPPpaaHvwNwMPzsgQ) ：训练生成对抗网络，将真实图片向着漫画风格迁移，太强了！
 * [AI火灾检测](https://mp.weixin.qq.com/s/SarFbBz3S4S-Gy3ygCUkkg) ：YOLOv7 训练目标检测模型，做个火灾监测程序
+* [YOLOv5+ByteTrack统计人流、车流](https://mp.weixin.qq.com/s/phsuJ1EUDFTeNzfUiBBfCQ) ：YOLOv5训练行人检测模型，用 ByteTrack 追踪并统计人流
 
 
 ## Python库
