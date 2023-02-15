@@ -8,6 +8,8 @@ Bilibili：https://space.bilibili.com/494605864
 
 ![](公众号/duma.jpg)
 
+* [chatgpt使用方法和常见问题总结 || 附免费账号](https://mp.weixin.qq.com/s/DU45xDis-lkoW-U4JMi0Ng)
+
 # Python
 
 Python 学习曲线低，上手简单，非常适合作为初学者的入门语言。Python 应用面广，学会 Python
@@ -48,6 +50,7 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 * [AI火灾检测](https://mp.weixin.qq.com/s/SarFbBz3S4S-Gy3ygCUkkg) ：YOLOv7 训练目标检测模型，做个火灾监测程序
 * [YOLOv5+ByteTrack统计人流、车流](https://mp.weixin.qq.com/s/phsuJ1EUDFTeNzfUiBBfCQ) ：YOLOv5训练行人检测模型，用 ByteTrack 追踪并统计人流
 * [YOLO+ByteTrack+多标签分类网络](https://mp.weixin.qq.com/s/G589OPzdaYrTKpNifvE_jw) ：YOLOv5训练行人检测模型，用 ByteTrack 追踪同一个人，训练多标签图形分类网络识别行人属性
+* [摔倒检测，基于骨骼点人体动作识别，部分代码用 chatgpt 完成](https://mp.weixin.qq.com/s/AvYhV7PVV8b3y4ZG2LzweA) ：人体检测、骨骼点检测、动作分类，还可以用 Track 追踪每个人
 
 
 ## Python库
