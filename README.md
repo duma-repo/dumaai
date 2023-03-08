@@ -52,6 +52,8 @@ Python 学习曲线低，上手简单，非常适合作为初学者的入门语�
 * [YOLO+ByteTrack+多标签分类网络](https://mp.weixin.qq.com/s/G589OPzdaYrTKpNifvE_jw) ：YOLOv5训练行人检测模型，用 ByteTrack 追踪同一个人，训练多标签图形分类网络识别行人属性
 * [摔倒检测，基于骨骼点人体动作识别，部分代码用 chatgpt 完成](https://mp.weixin.qq.com/s/AvYhV7PVV8b3y4ZG2LzweA) ：人体检测、骨骼点检测、动作分类，还可以用 Track 追踪每个人
 * [闯入识别，YOLOv5+多目标跟踪，核心代码用 chatgpt 完成](https://mp.weixin.qq.com/s/Gcxla2kgVVKe0SAKZGHkDw) ：YOLOv5识别行人，多目标跟踪模型跟踪行人，核心代码都可以抽象出来用 chatgpt 完成
+* [打架识别，基于循环神经网络RNN的视频分类任务](https://mp.weixin.qq.com/s/Hnj5dPzD6ZeHqZW92Ko9Ug) ：RNN或Transformer 序列分类
+* [数字虚拟人，AI作画+表情迁移+唇形合成](https://mp.weixin.qq.com/s/UgskPhprTw6YGw6-WJfEGw) ：大家 stable diffusion webui生成二次元图片，用FOM表情迁移+wav2lip唇形和成，驱动图片动起来
 
 
 ## Python库
