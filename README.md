@@ -8,6 +8,7 @@ Bilibili：https://space.bilibili.com/494605864
 
 ![](公众号/duma.jpg)
 
+* [ChatGPT 学术优化工具使用教程](python/ai/chatgpt_acadamic.md)
 * [chatgpt使用方法和常见问题总结 || 附免费账号](https://mp.weixin.qq.com/s/DU45xDis-lkoW-U4JMi0Ng)
 
 # Python
