@@ -8,6 +8,8 @@ Bilibili：https://space.bilibili.com/494605864
 
 ![](公众号/duma.jpg)
 
+* [OCR+ChatGPT识别食品配料里的狠活](https://mp.weixin.qq.com/s/HYC2QTn1qZB_UCDSM7RSCg)
+* [100多个ChatGPT 角色，帮你设计最佳的聊天体验](https://mp.weixin.qq.com/s/AJPiG1V4GfrGMzBvU5v6UQ)
 * [ChatGPT 学术优化工具使用教程](python/ai/chatgpt_acadamic.md)
 * [ChatGPT 学术优化工具使用教程 国内地址](https://mp.weixin.qq.com/s/Jfzn5vXbFs6zIsESYz7tmA)
 * [chatgpt使用方法和常见问题总结 || 附免费账号](https://mp.weixin.qq.com/s/DU45xDis-lkoW-U4JMi0Ng)
