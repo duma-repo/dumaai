@@ -8,6 +8,10 @@ Bilibili：https://space.bilibili.com/494605864
 
 ![](公众号/duma.jpg)
 
+# AIGC
+
+* [一键阅读项目助手](https://github.com/duma-repo/ai_code_reader)
+
 * [OCR+ChatGPT识别食品配料里的狠活](https://mp.weixin.qq.com/s/HYC2QTn1qZB_UCDSM7RSCg)
 * [100多个ChatGPT 角色，帮你设计最佳的聊天体验](https://mp.weixin.qq.com/s/AJPiG1V4GfrGMzBvU5v6UQ)
 * [ChatGPT 学术优化工具使用教程](python/ai/chatgpt_acadamic.md)
