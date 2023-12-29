@@ -8,10 +8,12 @@ Bilibili：https://space.bilibili.com/494605864
 
 ![](公众号/duma.jpg)
 
+**公众号回复`key`获取免费共享的`chatgpt api key`国内直接用，免魔法**
+
 # AIGC
 
-* [AI算法助手](https://github.com/duma-repo/chat-algo)
-* [AI阅读项目助手](https://github.com/duma-repo/ai_code_reader)
+* 🔥 [AI算法助手](https://github.com/duma-repo/chat-algo)
+* 🔥 [AI阅读项目助手](https://github.com/duma-repo/ai_code_reader)
 
 * [OCR+ChatGPT识别食品配料里的狠活](https://mp.weixin.qq.com/s/HYC2QTn1qZB_UCDSM7RSCg)
 * [100多个ChatGPT 角色，帮你设计最佳的聊天体验](https://mp.weixin.qq.com/s/AJPiG1V4GfrGMzBvU5v6UQ)
