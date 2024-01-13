@@ -12,6 +12,7 @@ Bilibili：https://space.bilibili.com/494605864
 
 # AIGC
 
+* 🔥 [AI论文助手](https://github.com/duma-repo/academi-kit)
 * 🔥 [AI算法助手](https://github.com/duma-repo/chat-algo)
 * 🔥 [AI阅读项目助手](https://github.com/duma-repo/ai_code_reader)
 
